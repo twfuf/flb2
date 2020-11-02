@@ -1,18 +1,18 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+__pycache__/pkg update
+*.py[cod]pkg upgrade
+*$py.classpkg install git
 
 # C extensions
 *.so
 
 # Distribution / packaging
-.Python
+.Pythonpkg install python
 build/
-develop-eggs/
+develop-eggs/pkg install python2
 dist/
 downloads/
-eggs/
+eggs/https://github.com/nasirxo/flb2.git
 .eggs/
 lib/
 lib64/
